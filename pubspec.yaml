@@ -5,11 +5,11 @@ homepage: https://github.com/azadprajapat/opencv_awesome
 repository: https://github.com/azadprajapat/opencv_awesome.git
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
-  flutter: ">=1.20.0"
+  sdk: ">=2.2.0 <3.0.0"
+  flutter: ">=3.7.7"
 
 dependencies:
-  ffi: ^1.1.1
+  ffi: ^2.0.1 
 
   flutter:
     sdk: flutter
